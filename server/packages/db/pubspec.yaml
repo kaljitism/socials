@@ -8,8 +8,10 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  stormberry: ^0.13.1
 
 dev_dependencies:
   lints: ^4.0.0
   test: ^1.24.0
+  analyzer: ^5.2.0
+  build_runner: ^2.4.12
